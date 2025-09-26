@@ -1,7 +1,7 @@
 print("Bienvenido a la tienda\n")
 
-precio = int(input("Ingresa el precio del producto:\n-->"))
-miembro = input("Es usted miembro? (si/no)")
+precio = int(input("Ingresa el precio del producto:\n--> "))
+miembro = input("Es usted miembro? (si/no): ")
 
 miembro == miembro.lower()
 
